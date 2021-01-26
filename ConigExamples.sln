@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConigExamples", "ConigExamples\ConigExamples.csproj", "{7B9CC098-E31F-480E-B73A-50A18B1EBDBD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConfigExamples.Tests", "ConfigExamples.Tests\ConfigExamples.Tests.csproj", "{0851936C-ECC0-44F4-AB52-4C52BD3FAD9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Alex|Any CPU = Alex|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B9CC098-E31F-480E-B73A-50A18B1EBDBD}.Alex|Any CPU.ActiveCfg = Alex|Any CPU
+		{7B9CC098-E31F-480E-B73A-50A18B1EBDBD}.Alex|Any CPU.Build.0 = Alex|Any CPU
+		{7B9CC098-E31F-480E-B73A-50A18B1EBDBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B9CC098-E31F-480E-B73A-50A18B1EBDBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B9CC098-E31F-480E-B73A-50A18B1EBDBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B9CC098-E31F-480E-B73A-50A18B1EBDBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0851936C-ECC0-44F4-AB52-4C52BD3FAD9D}.Alex|Any CPU.ActiveCfg = Debug|Any CPU
+		{0851936C-ECC0-44F4-AB52-4C52BD3FAD9D}.Alex|Any CPU.Build.0 = Debug|Any CPU
+		{0851936C-ECC0-44F4-AB52-4C52BD3FAD9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0851936C-ECC0-44F4-AB52-4C52BD3FAD9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0851936C-ECC0-44F4-AB52-4C52BD3FAD9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0851936C-ECC0-44F4-AB52-4C52BD3FAD9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09CA3A18-A0D4-4AFB-8BBC-958BE64D71E7}
+	EndGlobalSection
+EndGlobal
