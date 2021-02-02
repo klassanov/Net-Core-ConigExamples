@@ -5,6 +5,7 @@ namespace ConigExamples.Infrastructure
 {
     public class FlatConfigValidation : IValidateOptions<FlatConfig>
     {
+        //Sections cross validation example
         //This validation approach supports DI and also other properties of the config file can be used to validate
         private readonly BeerConfig _beerConfig;
 

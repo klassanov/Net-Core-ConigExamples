@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConigExamples", "ConigExamp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConfigExamples.Tests", "ConfigExamples.Tests\ConfigExamples.Tests.csproj", "{0851936C-ECC0-44F4-AB52-4C52BD3FAD9D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlexConfiguration", "AlexConfiguration\AlexConfiguration.csproj", "{B0C37F85-0454-4BAD-922B-563CDD80F619}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Alex|Any CPU = Alex|Any CPU
@@ -26,6 +28,12 @@ Global
 		{0851936C-ECC0-44F4-AB52-4C52BD3FAD9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0851936C-ECC0-44F4-AB52-4C52BD3FAD9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0851936C-ECC0-44F4-AB52-4C52BD3FAD9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0C37F85-0454-4BAD-922B-563CDD80F619}.Alex|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0C37F85-0454-4BAD-922B-563CDD80F619}.Alex|Any CPU.Build.0 = Debug|Any CPU
+		{B0C37F85-0454-4BAD-922B-563CDD80F619}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0C37F85-0454-4BAD-922B-563CDD80F619}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0C37F85-0454-4BAD-922B-563CDD80F619}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0C37F85-0454-4BAD-922B-563CDD80F619}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

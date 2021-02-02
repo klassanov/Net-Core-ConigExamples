@@ -1,4 +1,4 @@
-using ConigExamples.Configuration;
+ using ConigExamples.Configuration;
 using ConigExamples.Infrastructure;
 using Microsoft.Extensions.Options;
 using Moq;
